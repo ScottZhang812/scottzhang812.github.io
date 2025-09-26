@@ -290,7 +290,7 @@ Please feel free to contact me for any form of communication or collaboration!
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-        <p>[2023.10] 🏆 I was awarded the **National Scholarship** by the Chinese Ministry of Education.</p>
+        <p>[2023.10] 🏆 I was awarded the <strong>National Scholarship</strong> by the Chinese Ministry of Education.</p>
 	  </div>
 	</div>
  
