@@ -289,7 +289,7 @@ Please feel free to contact me for any form of communication or collaboration!
 
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
-	  <div style="height:200px; width:100%; overflow:auto;">
+	  <div style="height:50px; width:100%; overflow:auto;">
         <p>[2023.10] 🏆 I was awarded the <strong>National Scholarship</strong> by the Chinese Ministry of Education.</p>
 	  </div>
 	</div>
@@ -300,6 +300,16 @@ Please feel free to contact me for any form of communication or collaboration!
 -  **National Scholarship** (Top 0.2% nationwide), *2023.10*
 -  **Huatai Securities Science & Technology Scholarship**, *2024.10*
 -  **First-Class Academic Excellence Scholarship** (Top 1% in SJTU), *2023.10*
+
+# 🎖 Lorem
+# 🎖 Lorem
+# 🎖 Lorem
+# 🎖 Lorem
+# 🎖 Lorem
+# 🎖 Lorem
+# 🎖 Lorem
+# 🎖 Lorem
+# 🎖 Lorem
 
 <!-- <span class='anchor' id='services'></span> -->
 
