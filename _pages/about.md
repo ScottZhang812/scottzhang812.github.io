@@ -294,7 +294,7 @@ Please feel free to contact me for any form of communication or collaboration!
 	  </div>
 	</div>
  
-<br>
+<!-- <br> -->
 
 # 🏅 Honors and Awards
 -  **National Scholarship** (Top 0.2% nationwide), *2023.10*
@@ -306,10 +306,15 @@ Please feel free to contact me for any form of communication or collaboration!
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">
 	  Total page views: <span id="busuanzi_value_site_pv"></span>
+	  <br>
 	  Unique visitors: <span id="busuanzi_value_site_uv"></span>
  </span>
 
+ <br>
+
+<div style="width: 20%; position:relative; left:40%">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HO8cOvyS6apiaF0VfeDrGubnM9iJNYQqqURxZvY58vQ&cl=ffffff&w=a"></script>
+</div>
 
 
 <!-- # 🎖 Lorem
