@@ -301,6 +301,16 @@ Please feel free to contact me for any form of communication or collaboration!
 -  **Huatai Securities Science & Technology Scholarship**, *2024.10*
 -  **First-Class Academic Excellence Scholarship** (Top 1% in SJTU), *2023.10*
 
+# Misc
+
+<span id="busuanzi_container_site_pv">
+	  本站总访问量<span id="busuanzi_value_site_pv"></span>次
+	  本站访客数<span id="busuanzi_value_site_uv"></span>人次
+	  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+ </span>
+
+
+
 <!-- # 🎖 Lorem
 # 🎖 Lorem
 # 🎖 Lorem
