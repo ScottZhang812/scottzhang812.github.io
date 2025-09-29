@@ -312,7 +312,7 @@ Please feel free to contact me for any form of communication or collaboration!
 
  <br>
 
-<div style="width: 20%; position:relative; left:40%">
+<div style="width: 40%; margin: 0 auto;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HO8cOvyS6apiaF0VfeDrGubnM9iJNYQqqURxZvY58vQ&cl=ffffff&w=a"></script>
 </div>
 
