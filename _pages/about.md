@@ -309,6 +309,7 @@ Please feel free to contact me for any form of communication or collaboration!
 	  Unique visitors: <span id="busuanzi_value_site_uv"></span>
  </span>
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HO8cOvyS6apiaF0VfeDrGubnM9iJNYQqqURxZvY58vQ&cl=ffffff&w=a"></script>
 
 
 <!-- # 🎖 Lorem
