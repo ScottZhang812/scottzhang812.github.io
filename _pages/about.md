@@ -296,18 +296,17 @@ Please feel free to contact me for any form of communication or collaboration!
  
 <br>
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 -  **National Scholarship** (Top 0.2% nationwide), *2023.10*
 -  **Huatai Securities Science & Technology Scholarship**, *2024.10*
 -  **First-Class Academic Excellence Scholarship** (Top 1% in SJTU), *2023.10*
 
-# Misc
+# ✨ Misc
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">
-	  本站总访问量<span id="busuanzi_value_site_pv"></span>次
-	  本站访客数<span id="busuanzi_value_site_uv"></span>人次
-	  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+	  Total page views: <span id="busuanzi_value_site_pv"></span>
+	  Unique visitors: <span id="busuanzi_value_site_uv"></span>
  </span>
 
 
