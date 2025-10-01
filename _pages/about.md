@@ -279,6 +279,8 @@ redirect_from:
 
 Xuteng Zhang is an undergraduate student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Previously, I had a wonderful time doing research at [IPADS](https://ipads.se.sjtu.edu.cn/zh/index.html), advised by [Prof. Rong Chen](https://ipads.se.sjtu.edu.cn/rong_chen).
 
+My research interests mainly lie in **efficient AI**, which involves compressing and accelerating various artificial intelligence models. 
+
 Please feel free to contact me for any form of communication or collaboration!
 
 
