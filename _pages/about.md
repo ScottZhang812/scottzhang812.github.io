@@ -290,8 +290,6 @@ Please feel free to contact me for any form of communication or collaboration!
 
 	- GPA: 93.66/100, Rank: 1/89 (as of October 2025)
 
-<br>
-
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:50px; width:100%; overflow:auto;">
