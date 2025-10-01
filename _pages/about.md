@@ -353,5 +353,3 @@ Please feel free to contact me for any form of communication or collaboration!
 <!-- <span class='anchor' id='services'></span> -->
 
 
-
-Last updated on {{ site.time | date: "%Y-%m-%d" }}

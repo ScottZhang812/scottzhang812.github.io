@@ -27,6 +27,15 @@ layout: compress
       </article>
     </div>
 
+    <footer class="site-footer" style="color:#888; font-size: 0.85em; text-align: center; margin-top: 2em;">
+      {% if page.permalink == "/" %}
+      <div>
+        Last updated on {{ site.time | date: "%Y-%m-%d" }}<br>
+        © Xuteng ZHANG 2025. Theme forked from <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a> [@https://github.com/RayeRen/acad-homepage.github.io].
+      </div>
+      {% endif %}
+    </footer>
+
     {% include scripts.html %}
 
   </body>
