@@ -23,13 +23,16 @@ This is the repo of the academic page of Xuteng Zhang. Forked from `RayeRen/acad
 ## Getting Started
 
 ### Prerequisites
+
 - Ruby (>= 2.7), Bundler, Jekyll
 
 ### Local Development
+
 ```bash
 bundle install
 bundle exec jekyll serve
 ```
+
 Then open `http://127.0.0.1:4000`.
 
 ## Customize
@@ -54,4 +57,4 @@ Then open `http://127.0.0.1:4000`.
 
 ## TODO
 
-- [ ] 减小h1标题高度，避免重叠
+- [X] 减小h1标题高度，避免重叠

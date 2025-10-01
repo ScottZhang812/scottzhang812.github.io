@@ -304,7 +304,7 @@ Please feel free to contact me for any form of communication or collaboration!
 -  **Huatai Securities Science & Technology Scholarship**, *2024.10*
 -  **First-Class Academic Excellence Scholarship** (Top 1% in SJTU), *2023.10*
 
-# ✨ Misc
+# ✨ Misc.
 
 
 
@@ -352,3 +352,6 @@ Please feel free to contact me for any form of communication or collaboration!
 
 <!-- <span class='anchor' id='services'></span> -->
 
+
+
+Last updated on {{ site.time | date: "%Y-%m-%d" }}
