@@ -287,6 +287,9 @@ Please feel free to contact me for any form of communication or collaboration!
 # 📖 Educations
 
 - <img src="images/sjtu_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Shanghai Jiao Tong University** (2022.09-2026.06) B.Eng. in Software Engineering
+
+	- GPA: 93.66/100, Rank: 1/89 (as of October 2025)
+
 <br>
 
 # 🔥 News
