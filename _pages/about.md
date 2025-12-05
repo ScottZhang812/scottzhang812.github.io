@@ -273,7 +273,7 @@ redirect_from:
     </script>
 </head>
 
-<span class='anchor' id='about-me'></span>
+<!-- <span class='anchor' id='about-me'></span>
 
 # 👤 Biography
 
@@ -319,7 +319,7 @@ Please feel free to contact me for any form of communication or collaboration!
 	  Total page views: <span id="busuanzi_value_site_pv"></span>
 	  <br>
 	  Unique visitors: <span id="busuanzi_value_site_uv"></span>
- </span>
+ </span> -->
 
 
 <!-- # 🎖 Lorem
