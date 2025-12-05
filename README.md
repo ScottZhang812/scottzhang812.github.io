@@ -1,4 +1,4 @@
-# Xuteng Zhang – Academic Homepage
+<!-- # Xuteng Zhang – Academic Homepage
 
 This is the repo of the academic page of Xuteng Zhang. Forked from `RayeRen/acad-homepage.github.io`.
 
@@ -57,4 +57,4 @@ Then open `http://127.0.0.1:4000`.
 
 ## TODO
 
-- [X] 减小h1标题高度，避免重叠
+- [X] 减小h1标题高度，避免重叠 -->
