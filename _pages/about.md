@@ -275,7 +275,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- # 👤 Biography
+# 👤 Biography
 
 Xuteng Zhang is an undergraduate student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Previously, I had a wonderful time doing research at [IPADS](https://ipads.se.sjtu.edu.cn/zh/index.html), advised by [Prof. Rong Chen](https://ipads.se.sjtu.edu.cn/rong_chen).
 
@@ -286,23 +286,23 @@ Please feel free to contact me for any form of communication or collaboration!
 
 # 📖 Educations
 
-- <img src="images/sjtu_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Shanghai Jiao Tong University** (2022.09-2026.06) B.Eng. in Software Engineering -->
+- <img src="images/sjtu_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Shanghai Jiao Tong University** (2022.09-2026.06) B.Eng. in Software Engineering
 
 <!--	- GPA: xxx/100, Rank: 1/89 (as of October 2025) -->
 
-<!-- # 🔥 News
+# 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:50px; width:100%; overflow:auto;">
         <p>[2023.10] 🏆 I was awarded the <strong>National Scholarship</strong> by the Chinese Ministry of Education.</p>
 	  </div>
-	</div> -->
+	</div>
  
 <!-- <br> -->
 
-<!-- # 🏅 Honors and Awards
+# 🏅 Honors and Awards
 -  **National Scholarship** (Top 0.2% nationwide), *2023.10*
 -  **Huatai Securities Science & Technology Scholarship**, *2024.10*
--  **First-Class Academic Excellence Scholarship** (Top 1% in SJTU), *2023.10* -->
+-  **First-Class Academic Excellence Scholarship** (Top 1% in SJTU), *2023.10*
 
 # ✨ Misc.
 
